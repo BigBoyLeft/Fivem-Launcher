@@ -1,0 +1,76 @@
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Guna.UI2.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem-Launcher.csprojAssemblyReference.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem_Launcher.Dashboard.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem_Launcher.Properties.Resources.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.GenerateResource.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.CoreCompileInputs.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.CopyComplete
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\MySql.Data.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Google.Protobuf.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Zstandard.Net.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\BouncyCastle.Crypto.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Ubiety.Dns.Core.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Renci.SshNet.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\System.Memory.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\System.Buffers.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\K4os.Compression.LZ4.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\K4os.Hash.xxHash.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\System.Numerics.Vectors.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\MySql.Data.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem Launcher.exe.config
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Fivem Launcher.exe.config
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Fivem Launcher.exe
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\bin\Debug\Fivem Launcher.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem Launcher.exe
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem Launcher.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-Launcher\obj\Debug\Fivem_Launcher.Form_Alert.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Fivem Launcher.exe.config
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Fivem Launcher.exe
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Fivem Launcher.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Guna.UI2.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\MySql.Data.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Google.Protobuf.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Zstandard.Net.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\BouncyCastle.Crypto.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Ubiety.Dns.Core.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Renci.SshNet.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\System.Memory.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\System.Buffers.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\K4os.Compression.LZ4.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\K4os.Hash.xxHash.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\System.Numerics.Vectors.dll
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\MySql.Data.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem-Launcher.csprojAssemblyReference.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem Launcher.exe.config
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem_Launcher.Dashboard.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem_Launcher.Form_Alert.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem_Launcher.Properties.Resources.resources
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.GenerateResource.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.CoreCompileInputs.cache
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem-Launcher.csproj.CopyComplete
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem Launcher.exe
+D:\Development\Launchers\Fivem-Launcher\Fivem-LauncherV2\Fivem-Launcher\obj\Debug\Fivem Launcher.pdb
