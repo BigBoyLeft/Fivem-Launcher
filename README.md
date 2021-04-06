@@ -2,7 +2,7 @@
 Modern Fivem Launcher</h3>
 
 <h3 align="center">
-This is a launcher made for fivem built using Guna UI2 Framework. and has been publicly released by BigMan#2118 hope you enjoy
+This is a launcher made for fivem built using Guna UI2 Framework. and has been publicly released by left#2118 hope you enjoy
 Everything can be changed and fitted to your liking</h3>
 
 ## Requirements
